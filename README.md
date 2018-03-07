@@ -42,6 +42,8 @@ Itesm being added soon
 
 ## JS
 
+- :books: [Deploy Angular 2 CLI app on heroku](https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352) - Host Your Angular 2 App on Heroku
+- :globe_with_meridians: [NodeMailer](https://nodemailer.com/about/) - Nodemailer is a module for Node.js applications to allow easy as cake email sending
 - :link: [IOS Double tap fix](https://gist.github.com/johan/2047491) - A jQuery plugin to selectively disable the iOS double-tap-to-zoom action on specific page elements
 
 ## UX/Design
