@@ -8,6 +8,7 @@ A collection of front end resources, tutorials, codepens and articles
 - :computer: - Web Applications
 - :globe_with_meridians: - Website
 - :floppy_disk: - Software
+- :link: - Gist
 
 ## Contents
 
@@ -49,7 +50,8 @@ A collection of CSS resources
 - :books: [Animated SVG loader guide](http://chrisdermody.com/animated-svg-loader-mydevportfol-io/) - How to make an animated SVG loading symbol
 - :books: [Bootstrap 3 breakpoint media queries](https://scotch.io/tutorials/default-sizes-for-twitter-bootstraps-media-queries) - A list of media queries used by bootstrap 3
 - :books: [Checkbox trickery with css](http://codersblock.com/blog/checkbox-trickery-with-css/) - Make custom Checkboxes with css
-- :computer: [Code guide by Mdo](http://codeguide.co/) - A HTML and CSS code guide for better structure
+- :books: [Versioning conflicts](https://blog.newrelic.com/2017/07/27/css-versioning-conflicts/) - Solving CSS versioning conflicts
+- :globe_with_meridians: [Code guide by Mdo](http://codeguide.co/) - A HTML and CSS code guide for better structure
 - :computer: [Gradient animator](https://www.gradient-animator.com/) - Web application to make animated gradients
 
 ## SASS
@@ -59,6 +61,7 @@ A collection of SASS resources
 ## JS
 
 A collection of JS resources
+- :link: [IOS Double tap fix](https://gist.github.com/johan/2047491) - A jQuery plugin to selectively disable the iOS double-tap-to-zoom action on specific page elements
 
 ## UX/Design
 
