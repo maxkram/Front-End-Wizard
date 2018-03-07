@@ -10,6 +10,12 @@ A collection of front end resources, tutorials, codepens and articles
 - :floppy_disk: - Software
 - :link: - Gist / Code example
 
+### Pricing Legend
+
+- :tada: - Free
+- :moneybag: - Paid
+- :money_with_wings: - Has free and paid sections
+
 ## Contents
 
 - [HTML](#html)
@@ -61,19 +67,14 @@ A collection of front end resources, tutorials, codepens and articles
 
 ## Applications
 
-- :floppy_disk: [Illustrator](https://www.adobe.com/uk/products/illustrator.html) - SVG editing tool and website design software
-- :floppy_disk: [Photoshop](https://www.adobe.com/uk/products/photoshop.html) - SVG editing tool and website design software
-- :floppy_disk: [Sketch](https://www.sketchapp.com/) - MAC ONLY, SVG editing tool and website design software
+- :tada: [GIMP](https://www.gimp.org/) - A totally free image editing suite similar to Photoshop
+- :moneybag: [Illustrator](https://www.adobe.com/uk/products/illustrator.html) - SVG editing tool and website design software
+- :moneybag: [Photoshop](https://www.adobe.com/uk/products/photoshop.html) - SVG editing tool and website design software
+- :moneybag: [Sketch](https://www.sketchapp.com/) - MAC ONLY, SVG editing tool and website design software
 
 ## Training
 
 This section is for training platforms which offere free/paid courses to learn development. Any platform added here should contain a wide array of courses.
-
-#### Legend
-
-- :tada: - Free
-- :moneybag: - Paid
-- :money_with_wings: - Has free and paid sections
 
 #### Platforms
 
