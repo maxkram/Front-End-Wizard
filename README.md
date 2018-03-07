@@ -38,7 +38,7 @@ A collection of front end resources, tutorials, codepens and articles
 
 ## SASS
 
-Itesm being added soon
+Items being added soon
 
 ## JS
 
