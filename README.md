@@ -63,9 +63,13 @@ Itesm being added soon
 
 This section is for training platforms which offere free/paid courses to learn development. Any platform added here should contain a wide array of courses.
 
+#### Legend
+
 - :tada: - Free
 - :moneybag: - Paid
 - :money_with_wings: - Has free and paid sections
+
+#### Platforms
 
 - :money_with_wings: [Code Academy](https://www.codecademy.com/) - A very extensive free section but has a pro upgrade
 - :moneybag: [Pluralsight](https://learn.pluralsight.com) - Online tutorial video platform
