@@ -2,7 +2,7 @@
 
 A collection of front end resources, tutorials, codepens and articles
 
-### License Legends
+### Legend
 
 - :books: - Article
 - :computer: - Web Applications
