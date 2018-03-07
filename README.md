@@ -2,13 +2,13 @@
 
 A collection of front end resources, tutorials, codepens and articles
 
-### License Legends
+### Legend
 
 - :books: - Article
 - :computer: - Web Applications
 - :globe_with_meridians: - Website
 - :floppy_disk: - Software
-- :link: - Gist
+- :link: - Gist / Code example
 
 ## Contents
 
