@@ -34,10 +34,13 @@ A collection of front end resources, tutorials, codepens and articles
 - :books: [Checkbox trickery with css](http://codersblock.com/blog/checkbox-trickery-with-css/) - Make custom Checkboxes with css
 - :books: [Versioning conflicts](https://blog.newrelic.com/2017/07/27/css-versioning-conflicts/) - Solving CSS versioning conflicts
 - :globe_with_meridians: [Code guide by Mdo](http://codeguide.co/) - A HTML and CSS code guide for better structure
+- :globe_with_meridians: [BEM CSS](http://getbem.com/) - A CSS methodology that helps you to create reusable components
 - :computer: [Gradient animator](https://www.gradient-animator.com/) - Web application to make animated gradients
 
 ## SASS
 
+- :books: [Using SASS with the angular cli](https://scotch.io/tutorials/using-sass-with-the-angular-cli) - A guide on using SASS with the angular cli
+- :computer: [SassMeister](https://www.sassmeister.com/) - A web based playground for testing Sass creations
 - :link: [Spacing helper](https://gist.github.com/kieranmv95/99c5e4cb66ec76256b68600a5ee4e136) - customizable SCSS class generator for spacing units in web
 - :link: [Triangles Mixin](https://gist.github.com/kieranmv95/cc4b711f86981469f06bff2d6c674004) - SCSS mixin to instantly make pure css triangles
 
