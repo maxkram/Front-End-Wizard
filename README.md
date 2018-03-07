@@ -38,7 +38,8 @@ A collection of front end resources, tutorials, codepens and articles
 
 ## SASS
 
-Itesm being added soon
+- :link: [Spacing helper](https://gist.github.com/kieranmv95/99c5e4cb66ec76256b68600a5ee4e136) - customizable SCSS class generator for spacing units in web
+- :link: [Triangles Mixin](https://gist.github.com/kieranmv95/cc4b711f86981469f06bff2d6c674004) - SCSS mixin to instantly make pure css triangles
 
 ## JS
 
