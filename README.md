@@ -13,38 +13,20 @@ A collection of front end resources, tutorials, codepens and articles
 ## Contents
 
 - [HTML](#html)
-  - [Articles](#htmlarticles)
-  - [Websites](#htmlarticles)
-  - [Web Applications](#htmlarticles)
 - [CSS](#css)
-  - [Articles](#htmlarticles)
-  - [Websites](#htmlarticles)
-  - [Web Applications](#htmlarticles)
 - [SASS](#sass)
-  - [Articles](#htmlarticles)
-  - [Websites](#htmlarticles)
-  - [Web Applications](#htmlarticles)
 - [JS](#js)
-  - [Articles](#htmlarticles)
-  - [Websites](#htmlarticles)
-  - [Web Applications](#htmlarticles)
-- [UX/Design](#js)
-  - [Articles](#htmlarticles)
-  - [Websites](#htmlarticles)
-  - [Web Applications](#htmlarticles)
-- [Training Platforms](#js)
+- [UX/Design](#ux/design)
+- [Applications](#applications)
+- [Training Platforms](#training)
 
 ## HTML
-
-A collection of HTML resources includeing SVG articles
 
 - :books: [getHead](https://gethead.info/) - A guide to `<head>` elements
 - :books: [You should use html form validation](https://pageclip.co/blog/2018-02-20-you-should-use-html5-form-validation.html) - Reference and guide about html form validation
 - :globe_with_meridians: [Code guide by Mdo](http://codeguide.co/) - A HTML and CSS code guide for better structure
 
 ## CSS
-
-A collection of CSS resources
 
 - :books: [A visual guide to CSS flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) - A guide on using flexbox
 - :books: [Animated SVG loader guide](http://chrisdermody.com/animated-svg-loader-mydevportfol-io/) - How to make an animated SVG loading symbol
@@ -56,11 +38,10 @@ A collection of CSS resources
 
 ## SASS
 
-A collection of SASS resources
+Itesm being added soon
 
 ## JS
 
-A collection of JS resources
 - :link: [IOS Double tap fix](https://gist.github.com/johan/2047491) - A jQuery plugin to selectively disable the iOS double-tap-to-zoom action on specific page elements
 
 ## UX/Design
@@ -80,6 +61,12 @@ A collection of JS resources
 
 ## Training
 
-- :computer: [Code Academy](https://www.codecademy.com/) - Online learning platform with built in IDE
-- :computer: [Pluralsight](https://learn.pluralsight.com) - Online tutorial video platform
-- :computer: [Treehouse](https://teamtreehouse.com/home) - Online learning platformwith built in IDE
+This section is for training platforms which offere free/paid courses to learn development. Any platform added here should contain a wide array of courses.
+
+- :tada: - Free
+- :moneybag: - Paid
+- :money_with_wings: - Has free and paid sections
+
+- :money_with_wings: [Code Academy](https://www.codecademy.com/) - A very extensive free section but has a pro upgrade
+- :moneybag: [Pluralsight](https://learn.pluralsight.com) - Online tutorial video platform
+- :moneybag: [Treehouse](https://teamtreehouse.com/home) - A vast platform with extremely well built courses in front end ux backend etc
